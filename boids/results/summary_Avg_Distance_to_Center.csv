@@ -1,0 +1,14 @@
+Label,Average Avg Distance to Center
+30b_sep0.5_ali2.0_coh1.5 (Pred),7.034351818609411
+30b_sep0.5_ali2.0_coh1.5. (NoPred),16.83212144353069
+30b_sep1.0_ali1.0_coh1.0 (Pred),113.14076951299486
+30b_sep1.0_ali1.0_coh1.0. (NoPred),66.09042536138206
+30b_sep2.0_ali0.5_coh0.5 (Pred),181.8916613731467
+30b_sep2.0_ali0.5_coh0.5. (NoPred),180.55242646308812
+60b_sep0.5_ali2.0_coh1.5 (Pred),16.64801609146123
+60b_sep0.5_ali2.0_coh1.5. (NoPred),44.179348385780145
+60b_sep1.0_ali1.0_coh1.0 (Pred),94.98682341890041
+60b_sep1.0_ali1.0_coh1.0. (NoPred),98.36647449957495
+60b_sep2.0_ali0.5_coh0.5 (Pred),136.37552901579923
+60b_sep2.0_ali0.5_coh0.5. (NoPred),187.87194551760496
+simulation_log_temp.csv (NoPred),382.89038425037

@@ -1,0 +1,14 @@
+Label,Average Collisions
+30b_sep0.5_ali2.0_coh1.5 (Pred),324.690518783542
+30b_sep0.5_ali2.0_coh1.5. (NoPred),162.7140287769784
+30b_sep1.0_ali1.0_coh1.0 (Pred),7.184367034834325
+30b_sep1.0_ali1.0_coh1.0. (NoPred),14.146757679180887
+30b_sep2.0_ali0.5_coh0.5 (Pred),0.12670068027210885
+30b_sep2.0_ali0.5_coh0.5. (NoPred),0.12149532710280374
+60b_sep0.5_ali2.0_coh1.5 (Pred),948.49375
+60b_sep0.5_ali2.0_coh1.5. (NoPred),471.73639455782313
+60b_sep1.0_ali1.0_coh1.0 (Pred),15.659013605442176
+60b_sep1.0_ali1.0_coh1.0. (NoPred),40.71735241502683
+60b_sep2.0_ali0.5_coh0.5 (Pred),0.0742397137745975
+60b_sep2.0_ali0.5_coh0.5. (NoPred),0.2087431693989071
+simulation_log_temp.csv (NoPred),2.219917012448133
